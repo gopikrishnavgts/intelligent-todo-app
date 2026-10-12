@@ -4,7 +4,9 @@ A to-do app and desktop widget for macOS, organized by **your own Claude Code**.
 
 ## ⬇️ Download
 
-**[Download the latest version (DMG)](https://github.com/gopikrishnavgts/intelligent-todo-app/releases/latest)**. You don't need a GitHub account.
+**[Download IntelligentTODO.dmg](https://github.com/gopikrishnavgts/intelligent-todo-app/releases/latest/download/IntelligentTODO.dmg)**. This link always points to the latest version, and you don't need a GitHub account.
+
+You can see all versions and what changed on the [Releases](https://github.com/gopikrishnavgts/intelligent-todo-app/releases) page.
 
 ## Install
 1. Open the DMG and drag **Intelligent TODO** onto **Applications**.
